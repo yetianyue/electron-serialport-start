@@ -214,7 +214,7 @@ Failed with exit code: 1
 - main.js 是主进程的js
 - render.js是渲染进程的js，index.html是渲染的html文件
 
-![目录结构](./static/1.png)
+![目录结构](static/1.png)
 
 ### 2.2 获取串口的信息
 
@@ -404,7 +404,7 @@ npm run build
 
 打包成功会出现以下信息
 
-![打包输出](./static/2.png)
+![打包输出](static/2.png)
 
 ---
 
@@ -424,20 +424,20 @@ cnpm install
 部门因为网络原因，无法下载工具已经放置在static/cache目录下
 下载完成后按照下图所示将工具放置在一下目录中
 
-[electron-v9.0.5-win32-x64.zip](./static/cache/electron-v9.0.5-win32-x64.zip)
+[electron-v9.0.5-win32-x64.zip](https://download.csdn.net/download/qq_27224627/12573475)
 
-[nsis-3.0.4.1.7z](./static/cache/nsis-3.0.4.1.7z)
+[nsis-3.0.4.1.7z](https://download.csdn.net/download/qq_27224627/12573505)
 
-[nsis-resources-3.4.1.7z](./static/cache/nsis-resources-3.4.1.7z)
+[nsis-resources-3.4.1.7z](https://download.csdn.net/download/qq_27224627/12573505)
 
-[winCodeSign-2.6.0.7z](./static/cache/winCodeSign-2.6.0.7z)
+[winCodeSign-2.6.0.7z](https://download.csdn.net/download/qq_27224627/12573505)
 
 C:\Users\Administrator\AppData\Local\electron-builder\Cache
 
-![打包所需要的目录结构1](./static/3.png)
+![打包所需要的目录结构1](static/3.png)
 
 C:\Users\Administrator\AppData\Local\electron-builder\Cache\winCodeSign
-![打包所需要的目录结构2](./static/4.png)
+![打包所需要的目录结构2](static/4.png)
 
 C:\Users\Administrator\AppData\Local\electron-builder\Cache\nsis
-![打包所需要的目录结构2](./static/5.png)
+![打包所需要的目录结构2](static/5.png)
